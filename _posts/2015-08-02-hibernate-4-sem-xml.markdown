@@ -121,7 +121,7 @@ public class Pessoa implements Serializable {
         this.nome = nome;
     }
 }
-{% endhighlight }
+{% endhighlight %}
 
 E agora só colocar uma classe para testar:
 
