@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Configuração do Hibernate 4 sem usar XML"
+title:  Configuração do Hibernate 4 sem usar XML
 date:   2015-08-02 14:57:27
 categories: Java Hibernate
 ---
