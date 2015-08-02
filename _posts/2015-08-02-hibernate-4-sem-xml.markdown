@@ -155,7 +155,7 @@ public class Main {
     }
 
 }
-{% endhighlight }
+{% endhighlight %}
 
 Se tudo funcionar corretamente, será criado dois registros na tabela e logo em seguida serão listados.
 
